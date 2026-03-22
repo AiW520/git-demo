@@ -1,8 +1,10 @@
-hello atguigu! hello gi
+hello atguigu! hello gi  hot-fix
 ZhuanZ1@ZhuanZZhuanZ1@Zh
 uanZZhuanZ1@ZhuanZZhuanZ1@Zh
+<<<<<<< HEAD
 uanZZhuanZ1@ZhuanZZhuanZ1@Z
 huanZZhuanZ1@ZhuanZZhuanZ1@Z
 huanZZhuanZ1@ZhuanZZhuanZ1@Z
 huanZZhuanZ1@ZhuanZZhuanZ1@Z
 huanZZhuanZ1@ZhuanZt!
+uanZZhuanZ1@ZhuanZZhuanZ1@Zh hot-fix
